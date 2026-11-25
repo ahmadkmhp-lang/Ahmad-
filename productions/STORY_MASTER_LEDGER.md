@@ -53,6 +53,12 @@ Permanent record of every completed episode. Each entry lists the setting, core 
 - **Core Plot:** The smart speaker's LED ring lights up by itself and it says "I heard what you said", though Neha said nothing. The app's voice history shows that command logged on the next day's date at four thirteen AM, while it is still only two AM.
 - **Final Twist:** In the recording, an unknown heavy voice calls Neha's name and her own voice answers "yes, I'm coming". The last shot jumps to four thirteen the next morning: the kitchen is empty, her phone lies on the floor, and the front door stands wide open.
 
+## Ep 12 — कल की तारीख वाला पार्सल (Kal ka Parcel)
+- **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
+- **Setting:** A young man's small rented ground-floor room at eleven PM: the stone doorstep outside his bolted front door and the single bed just inside it.
+- **Core Plot:** The delivery app shows a parcel he never ordered as delivered. Before sleeping he had bolted the door from inside and folded the outer corner of his bedsheet into a triangle. The doorbell rings, the doorstep is empty, and a sealed box there carries his name and tomorrow's date.
+- **Final Twist:** Inside is a still-developing instant photo of him asleep tonight on the same sheet, in the same position, with the same triangle fold, and with the door bolt shut from inside behind him. Someone stood at his headside in the locked room and sealed his sleep in a box dated tomorrow.
+
 ## Ep 13 — भूला हुआ कॉलेज दोस्त (Bhoola Hua Dost)
 - **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
 - **Setting:** The old hangout cafe near the college gate on a rainy evening, at the window table where four college friends used to meet every day.
