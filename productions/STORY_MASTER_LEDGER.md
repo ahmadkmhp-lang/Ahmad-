@@ -47,3 +47,8 @@ Permanent record of every completed episode. Each entry lists the setting, core 
 - **Setting:** A young woman's rented fourth-floor city flat, facing the neighbour's balcony across a narrow lane, at midnight.
 - **Core Plot:** An old aunty on the opposite balcony gestures "close your curtains" every night while staring past the narrator. Police break her door and find she died a week ago.
 - **Final Twist:** From the aunty's balcony, the narrator sees a man standing behind her empty chair in her own room. The aunty was protecting her from him, and he looks across and slowly closes her curtains.
+
+## Ep 11 — रसोई का बोलता स्पीकर (Bolta Speaker)
+- **Setting:** A dark, empty kitchen in a family flat at two AM, with a smart speaker on the counter beside the fridge while the parents sleep.
+- **Core Plot:** The smart speaker's LED ring lights up by itself and it says "I heard what you said", though Neha said nothing. The app's voice history shows that command logged on the next day's date at four thirteen AM, while it is still only two AM.
+- **Final Twist:** In the recording, an unknown heavy voice calls Neha's name and her own voice answers "yes, I'm coming". The last shot jumps to four thirteen the next morning: the kitchen is empty, her phone lies on the floor, and the front door stands wide open.
