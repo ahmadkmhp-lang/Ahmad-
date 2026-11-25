@@ -52,3 +52,9 @@ Permanent record of every completed episode. Each entry lists the setting, core 
 - **Setting:** A dark, empty kitchen in a family flat at two AM, with a smart speaker on the counter beside the fridge while the parents sleep.
 - **Core Plot:** The smart speaker's LED ring lights up by itself and it says "I heard what you said", though Neha said nothing. The app's voice history shows that command logged on the next day's date at four thirteen AM, while it is still only two AM.
 - **Final Twist:** In the recording, an unknown heavy voice calls Neha's name and her own voice answers "yes, I'm coming". The last shot jumps to four thirteen the next morning: the kitchen is empty, her phone lies on the floor, and the front door stands wide open.
+
+## Ep 13 — भूला हुआ कॉलेज दोस्त (Bhoola Hua Dost)
+- **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
+- **Setting:** The old hangout cafe near the college gate on a rainy evening, at the window table where four college friends used to meet every day.
+- **Core Plot:** The narrator begs Vishal and Pooja to remember his closest friend Kabir, but they stare blankly as if Kabir never existed. Kabir's number and chats have vanished from his phone, and a call rings in with no name on the screen.
+- **Final Twist:** In the old group photo, the spot where Kabir stood with his hand on the narrator's shoulder is empty, and the back reads in wet ink "अब तुम्हें भी सब भूल जाएंगे।" The waiter sets down only two cups, and Vishal asks the narrator, "Sorry, who are you?"
