@@ -88,3 +88,21 @@ Permanent record of every completed episode. Each entry lists the setting, core 
 - **Setting:** The checkout queue and billing counter of a busy neighbourhood grocery store in the evening: a barcode scanner on the counter, red painted queue squares on the floor, and a white dome CCTV camera in the ceiling corner above the cashier, aimed down the queue.
 - **Core Plot:** The narrator stands right behind a young woman with a rust-orange jute bag on the first queue square. He blinks, and on that same square, with the same bag, clothes and mole under the eye, stands a very old woman. The scanner keeps beeping and nobody, not even the cashier, finds anything strange. After she pays and leaves, he has the cashier rewind the CCTV recording.
 - **Final Twist:** The recording runs continuously with no cut. From its first moment the same old woman stands on that square with the same bag, the narrator right behind her, and no young woman appears anywhere. The whole time she never looks at the counter, only straight up into the CCTV camera.
+
+## Ep 18 — दो मिनट वाली बस (2 Minute Wali Bus)
+- **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
+- **Setting:** A deserted roadside bus stop at the edge of an Indian city at eleven at night, and the inside of an old blue and cream city bus with a long rear bench seat.
+- **Core Plot:** An empty bus stops while the narrator holds his own maroon duffel bag with a blue shoelace tied to its zip pull. The conductor punches his ticket at the door with a sharp click, and he puts it in his shirt pocket, but the bus pulls away before he can board, and he notes its rear number plate. His watch shows one minute past eleven. Exactly two minutes later the same empty bus returns with the same number plate, although one round of that route takes an hour.
+- **Final Twist:** The rear door opens and the punched ticket is still in his pocket, but his own bag, which was in his hand until that moment, is already lying on the bus's rear passenger seat.
+
+## Ep 19 — कोहरे में गायब ढाबा (Kohre ka Dhaba)
+- **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
+- **Setting:** The only lit roadside dhaba on a foggy national highway at night, and the inside of the narrator's old white hatchback.
+- **Core Plot:** The narrator buys tea in an earthen kulhad at the dhaba and takes the warm kulhad back to his car, where a jolt knocks it against the dashboard with a "thak". Dense fog swallows the car and his phone network disappears, so he slows right down. Moments later the fog clears at the next toll plaza: the clock hand has moved only ten seconds, but the meter shows him forty kilometres further on. The toll worker asks where he is coming from, and he says the dhaba just behind.
+- **Final Twist:** The toll worker turns pale and says that dhaba was demolished eight years ago, yet the kulhad bought there is still warm in the narrator's palm.
+
+## Ep 20 — बारिश का खाली मोड़ (Barish ka Mod)
+- **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
+- **Setting:** A narrow two-lane hill road on a night of heavy rain, a sharp bend lined by a black and white striped metal guardrail with a deep V-shaped dent and a round red reflector, and the drive back along the same road to the same bend.
+- **Core Plot:** The windshield wipers scrape rhythmically as the narrator, a young woman, drives alone, and she notes that her white car's number is चार चार सात सात. At the dented bend a white car of the same model lies upside down on its roof, its wheels still spinning and its cabin dark and empty. She photographs it, drives on in fear, then gathers courage and returns. The bend, the bent guardrail and the red reflector are all identical, but the car is gone, with no broken glass and no tyre marks, while her photo still shows it beside the same guardrail.
+- **Final Twist:** She zooms into the photo, and the upside-down number plate of the overturned car carries her own car's number, चार चार सात सात.
