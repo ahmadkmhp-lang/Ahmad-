@@ -64,3 +64,9 @@ Permanent record of every completed episode. Each entry lists the setting, core 
 - **Setting:** The old hangout cafe near the college gate on a rainy evening, at the window table where four college friends used to meet every day.
 - **Core Plot:** The narrator begs Vishal and Pooja to remember his closest friend Kabir, but they stare blankly as if Kabir never existed. Kabir's number and chats have vanished from his phone, and a call rings in with no name on the screen.
 - **Final Twist:** In the old group photo, the spot where Kabir stood with his hand on the narrator's shoulder is empty, and the back reads in wet ink "अब तुम्हें भी सब भूल जाएंगे।" The waiter sets down only two cups, and Vishal asks the narrator, "Sorry, who are you?"
+
+## Ep 15 — शादी की तस्वीर का मेहमान (Tasveer ka Mehmaan)
+- **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
+- **Setting:** The family wedding mandap at night during the pheras: four marigold pillars with the front-right one leaning at a slant, a second camera clamped to that leaning pillar, and the first photographer's fixed spot beside the tall brass lamp at the front-left corner.
+- **Core Plot:** Before the pheras, the narrator (the bride's younger sister) clamps her second camera to the leaning pillar, where it clicks by itself every minute, while photographer Raju always shoots from beside the brass lamp. Mid-pheras, Raju hands her his camera: in every photo the same unknown man in a grey Nehru jacket stands behind the guests staring into the lens, yet no one is standing there.
+- **Final Twist:** The pillar camera's shutter clicks, and its last photo shows the narrator and Raju bent over his camera while the same man stands at Raju's spot beside the brass lamp, not looking at the camera but smiling straight at her.
