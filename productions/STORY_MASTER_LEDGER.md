@@ -65,6 +65,12 @@ Permanent record of every completed episode. Each entry lists the setting, core 
 - **Core Plot:** The narrator begs Vishal and Pooja to remember his closest friend Kabir, but they stare blankly as if Kabir never existed. Kabir's number and chats have vanished from his phone, and a call rings in with no name on the screen.
 - **Final Twist:** In the old group photo, the spot where Kabir stood with his hand on the narrator's shoulder is empty, and the back reads in wet ink "अब तुम्हें भी सब भूल जाएंगे।" The waiter sets down only two cups, and Vishal asks the narrator, "Sorry, who are you?"
 
+## Ep 14 — सपने वाला पुराना बाजार (Sapne Wala Bazaar)
+- **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
+- **Setting:** An old bazaar in a city the narrator is visiting for the first time, at winter dusk: a narrow stone side lane under a half-collapsed sandstone arch, and the old curio shop with a carved wooden doorframe beneath it, all of which he had seen for years in a recurring dream.
+- **Core Plot:** On his first ever visit he knows every lane from the dream. He turns into the right side lane without peeking into it, knows the broken arch is waiting ahead, and the shop's wooden doorframe creaks exactly as it does in the dream. The old shopkeeper is stunned to see him, and when he says this is his first visit, the shopkeeper takes a framed photograph off the wall and says it is eight years old.
+- **Final Twist:** The eight-year-old photograph shows the same broken arch and the same shop, and standing outside it is the narrator himself, although he arrived in this city only today.
+
 ## Ep 15 — शादी की तस्वीर का मेहमान (Tasveer ka Mehmaan)
 - **Status:** ड्राफ्ट तैयार (ऑडिट लंबित)
 - **Setting:** The family wedding mandap at night during the pheras: four marigold pillars with the front-right one leaning at a slant, a second camera clamped to that leaning pillar, and the first photographer's fixed spot beside the tall brass lamp at the front-left corner.
